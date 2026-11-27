@@ -1,0 +1,22 @@
+{
+  "wheel_id": 974,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-116",
+  "project": "kitchen-renovations-eastern-melbourne-maintenance-76aff3746f35e",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-157",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne maintenance",
+  "intended_url": "https://sitesau.github.io/melbourneeastkitchenrenovation-116/",
+  "tier": "T2",
+  "writeback_nonce": "973982bee91aa6b6",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-eastern-melbourne-council-and-approvals-9cc/",
+      "anchor": "Kitchen Renovations Eastern Melbourne Council and Approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
